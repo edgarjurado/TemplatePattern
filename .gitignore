@@ -1,0 +1,11 @@
+
+.classpath
+*.class
+bin/target/classes/META-INF/maven/TemplatePattern/TemplatePattern/pom.properties
+*.class
+.project
+.settings/org.eclipse.jdt.apt.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+bin/.project
+*.class
+target/classes/META-INF/MANIFEST.MF
